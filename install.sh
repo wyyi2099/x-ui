@@ -182,7 +182,9 @@ install_x-ui() {
     echo -e "x-ui install      - 安装 x-ui 面板"
     echo -e "x-ui uninstall    - 卸载 x-ui 面板"
     echo -e "x-ui geo          - 更新 geo  数据"
-    echo -e "交流群：853645907  - 唯一作者QQ1512105459"
+    echo -e "交流群：853645907  - 唯一作者QQ1512105459，
+    服务器推荐www.eggyun.net
+    服务器推荐vvdun.com"
     echo -e "----------------------------------------------"
 }
 
